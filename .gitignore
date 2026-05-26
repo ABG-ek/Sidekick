@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Материалы, которые не следует публиковать без проверки прав и обезличивания
+data/private/
+artifacts/private/
